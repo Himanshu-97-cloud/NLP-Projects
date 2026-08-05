@@ -80,7 +80,7 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-https://word-frequency-analyzer-m4donxxbclemgspmgpdsuw.streamlit.app/
+https://word-frequency-analyzer-hkpcjaxuv4hnvdxpm7luvk.streamlit.app/
 
 ---
 
