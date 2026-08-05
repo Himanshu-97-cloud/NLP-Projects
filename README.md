@@ -9,7 +9,7 @@ A curated collection of **Natural Language Processing (NLP)** projects built whi
 | No. | Project | Topics Covered | Live Demo |
 |:---:|---------|----------------|:---------:|
 | 01 | Text Preprocessing Pipeline | Text Cleaning, Tokenization, Lemmatization, Stemming, Stopword Removal | [Click Here](https://nlp-text-preprocessing-yf8krpsnqywa7obow6dphe.streamlit.app/) |
-| 02 | Word Frequency Analyzer | Bag of Words, N-grams, Word Frequency, Visualization | [Click Here](https://word-frequency-analyzer-m4donxxbclemgspmgpdsuw.streamlit.app/) |
+| 02 | Word Frequency Analyzer | Bag of Words, N-grams, Word Frequency, Visualization | [Click Here](https://word-frequency-analyzer-hkpcjaxuv4hnvdxpm7luvk.streamlit.app/) |
 | 03 | Spam Email Classifier | TF-IDF, CountVectorizer, Naive Bayes, Logistic Regression, SVM, Random Forest | [Cick Here](https://email-spam-classifier-9ezwd7up4y97ed4jqdbwyx.streamlit.app/) |
 | 04 | Sentiment Analysis *(Coming Soon)* | Text Classification | ⏳ |
 | 05 | Fake News Detection *(Coming Soon)* | TF-IDF, BERT, DeBERTa | ⏳ |
